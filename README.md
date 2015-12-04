@@ -22,6 +22,7 @@ You need to include three proxy images with the cover. The filenames of these im
 
 ### Packaging
 The cover should be delivered to the web editor of The New Institute as a zip file. To create the zip file on Mac:
+
 1. select all the files in the cover directory (not the cover directory itself)
 2. control + click on them
 3. select 'compress x items' in the contextual menu
