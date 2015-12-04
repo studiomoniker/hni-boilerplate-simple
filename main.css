@@ -1,0 +1,8 @@
+/* Feel free to remove the following css: */
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
