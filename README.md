@@ -15,9 +15,9 @@ You need to include three proxy images with the cover. The filenames of these im
 - `proxy-portrait.gif`: 520px by 768px image to be shown on small screens in landscape mode
 
 ### Image Compression
-Photographic images: use jpeg compression 80% or less
-Graphical bitmap images: png-8 or gif compression
-If your cover is purely vector based, you should try making an SVG version.
+- Photographic images: use jpeg compression 80% or less
+- Graphical bitmap images: png-8 or gif compression
+- If your cover is purely vector based, you should try making an SVG version.
 
 
 ### Packaging
