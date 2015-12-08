@@ -93,9 +93,7 @@
               case 'ready':
                 // If cover art is ready, a message is sent to the parent
                 // In that case the data having title and subtitle is sent to the cover
-                if (!msg.coverId) {
-                    msg.coverId = 'hni-boilerplate-simple'
-                }
+                msg.coverId = 'hni-boilerplate-simple'
                 var cover_url = Drupal.settings.magazines[msg.coverId].cover_url;
                 if (/boilerplate/.test(cover_url)) {
                   cover_url = 'http://localhost'
