@@ -19,6 +19,12 @@ You need to include three proxy images with the cover. The filenames of these im
 - Graphical bitmap images: png-8 or gif compression
 - If your cover is purely vector based, you should try making an SVG version.
 
+### Packaging
+To test out how your cover will look on the homepage of the New Institute, host the cover directory on a local webserver and visit `http://your-local-webserver/iframe-test/`. Make sure the following things work:
+- When you hover your cursor over the cover, it should change to a hand.
+- Clicking on the cover should send you to a page that tells you your click was successful
+- You should be able to use your trackpad or the scrollbutton on your mouse, while your cursor is on top of the cover
+- On an iPad, you should be able to scroll down the homepage, when your touch starts on the cover
 
 ### Packaging
 The cover should be delivered to the web editor of The New Institute as a zip file. To create the zip file on Mac:
